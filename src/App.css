@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.app-title {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
+  margin-top: 75px;
+  margin-bottom: 50px;
+}
